@@ -1,0 +1,172 @@
+* {
+    color: rgb(85, 84, 84);
+}
+.divvv{
+    border-top: 9px solid rgb(68, 67, 67);
+    width: 80%;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(249, 245, 245);
+}
+.name{
+    float: left;
+    color: rgb(85, 84, 84);
+    margin-left: 90px; 
+}
+.name h1{
+    font-family: sans-serif;
+}
+.name h3 {
+    font-style: italic;
+}
+hr {
+    margin-right: 60px;
+    margin-left: 70px;
+}
+.emaill{
+    float: right;
+    margin-right: 120px;
+}
+.emaill a {
+    position: absolute;
+    color: red;
+    font-size: 13px;
+    top: 70px;
+}
+.emaill button{
+    color: white;
+    font-size: 12px;
+    width: 130px;
+    height: 25px;
+    border: none;
+    background-color: rgb(95, 93, 93);
+}
+.pro{
+ margin-bottom: -50px;
+}
+.profile h3  {
+    font-style: italic;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.profile-body{
+    margin-left: 80px;
+    transform: translate(200px,-70px);
+}
+
+.skill{
+    margin-bottom: -430px;
+}
+.skills h3  {
+    font-style: italic;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.Web-body h3{
+    margin-left: 80px;
+    transform: translate(200px,-70px);
+}
+.Web-body p{ 
+    margin-left: 80px;
+    transform: translate(200px,-110px);
+}
+.Interface-body h3{
+    margin-left: 80px;
+    transform: translate(500px,-240px);
+}
+.Interface-body p{ 
+    margin-left: 80px;
+    transform: translate(500px,-280px);
+}
+.Project-body h3{
+    margin-left: 80px;
+    transform: translate(800px,-410px);
+}
+.Project-body p{ 
+    margin-left: 80px;
+    transform: translate(800px,-450px);
+}
+.Technical h3{
+    font-style: italic;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.hr1{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.xhtml{
+    transform: translate(80px,-58px);
+   
+}
+.xhtml li {
+    list-style: none;
+    display: inline;
+    margin: 130px;
+}
+.csss{
+    transform: translate(70px,-55px);
+   
+}
+.csss li {
+    list-style: none;
+    display: inline;
+    margin: 140px;
+}
+.Java{
+    transform: translate(100px,-40px);
+   
+}
+.Java li {
+    list-style: none;
+    display: inline;
+    margin: 110px;
+}
+
+.Experience h3{
+    font-style: italic;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.Experience p{
+    margin-left: 250px;
+   transform: translate(0px,-50px);
+} 
+.Facebook{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    transform: translate(250px,-44px);
+
+}
+.Senior{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    transform: translate(250px,-44px);
+}
+.date1{
+ float:right; 
+ transform: translate(-60px,-140px);
+ font-size: large;
+}
+.hr2{
+    margin-left: 250px;
+}
+.Apple{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    transform: translate(250px,10px);
+
+}
+.Senior-Inteface{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    transform: translate(250px,15px);
+}
+.date2{
+    float:right; 
+    transform: translate(-60px,-50px);
+    font-size: large;
+   }
+.Apple-body p{
+    margin-left: 250px;
+} 
